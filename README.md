@@ -1,2 +1,2 @@
 # nyt-react-search
-An app the searches the New York Times API by utilizing React.
+An app the searches the Google Books API by utilizing React.
